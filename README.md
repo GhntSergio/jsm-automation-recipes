@@ -4,6 +4,8 @@
 
 Ready-to-build **Automation for Jira** rules for **Jira Service Management Cloud**, written as recipes: trigger, conditions, actions and the smart values that make them work. Each one solves a recurring ITSM need: keeping requests moving, protecting SLAs and keeping related tickets in sync.
 
+![Anatomy of an automation rule](docs/overview.png)
+
 > Field names, request types, statuses and link types are examples. Map them to your project before building the rule, and test on a sandbox project first.
 
 ## Recipes
